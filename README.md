@@ -11,7 +11,7 @@ I love science because of how it can shape our lives and the wonders of its func
 
 - 🧑‍💻 Amatuer programmer
 
-I work @ onPoint Roblox as a programmer and work on personal and collaborated projects with friends
+I work @ onPoint Roblox as a programmer as well as having my own personal projects that I work on and projects collaborated with friends
 
 ## My interests:
 - ✈️ Aerospace Engineering & Flight Dynamics
@@ -20,7 +20,7 @@ I am fascinated by the engineering of aeroplanes and how pilots control them
 
 - 🪸 Marine Biology & Oceanography
 
-I absolutely love the ocean and its marine life and wish to create technology t
+I absolutely love the ocean and its marine life and wish to create technology that helps us create sustainable environments
 
 - 👮 Law Enforcement
 
